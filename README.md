@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Dly27
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently learning data science
+- 🏫 Studying for a maths degree
 
 
 <!---
