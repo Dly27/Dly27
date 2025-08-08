@@ -9,8 +9,6 @@ I'm a second year mathematics student at KCL sharpening up my programming skills
 
 - High performance & low latency systems  
 
-- Research driven software development  
-
 ## 🎯Current Goals  
 
 - Perform well in the UKIEPC  
